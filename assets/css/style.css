@@ -1,4 +1,5 @@
 .carrusel {
   width: 100;
   max-height: fit-content;
+  margin-top: 25px;
 }
